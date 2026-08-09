@@ -36,15 +36,6 @@ Não me apresento como programador tradicional ou especialista em linguagens de 
 
 > Os projetos foram idealizados e direcionados por mim, com prototipagem e geração de código apoiadas por ferramentas de IA. Os repositórios estão sendo organizados gradualmente com documentação, imagens e aprendizados.
 
-### Língua dos Antigos — Banco de Dados Arcano
-
-Catálogo digital interativo para organizar símbolos rúnicos e registros de *lore*.
-
-- Definição do conceito, identidade visual e organização do conteúdo.
-- Planejamento de pesquisa, filtros, abas e criação de registros.
-- Testes de usabilidade e ciclos de correção com apoio de IA.
-- Persistência local e interface responsiva no protótipo atual.
-
 ### Ficha dos Crias
 
 Conceito de sistema digital para estruturar fichas de personagens, atributos, inventários e árvores de habilidades.
