@@ -4,7 +4,7 @@
 
 # Felipe Sutil de Oliveira Aliski
 
-### Student and project creator working across software, electronics, IoT, and 3D environments
+### Student, vibe coder, and AI-assisted prototype creator
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Sutil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sutil-de-oliveira-aliski-474635428/)
 
@@ -12,109 +12,83 @@
 
 ## About Me
 
-I am a student based in Curitiba, Brazil, developing projects that connect **technology, creativity, and problem-solving**. My main interests include software development, interactive interfaces, electronics, the Internet of Things (IoT), 3D modeling, and applied research.
+I am a student based in Curitiba, Brazil, using artificial intelligence tools to turn ideas into prototypes and digital projects. My approach is close to **vibe coding**: I define goals, features, and user experiences; structure requirements; guide AI tools; test results; identify problems; request corrections; and follow the project's evolution.
 
-My work combines hands-on experimentation with clear documentation, ranging from data management systems and UI/UX experiences to microcontroller circuits, smart home automation, and conceptual engineering studies.
+I do not present myself as a traditional programmer or a specialist in coding languages. My main strength is connecting creativity, planning, research, and AI tools to bring ideas to life.
 
-I am currently organizing and documenting my projects to build an open technical portfolio. I am looking for opportunities to learn from experienced professionals, collaborate with teams, and apply my knowledge to real-world challenges.
+## How I Work
+
+- Turn an initial idea into clear goals and features.
+- Structure requirements and describe expected behaviors for AI tools.
+- Test prototypes, identify issues, and guide improvement cycles.
+- Direct interface, user experience, and content organization decisions.
+- Document each project's limits, lessons learned, and next steps.
 
 ## Areas of Interest
 
-![Software](https://img.shields.io/badge/Software%20Development-20232A?style=flat-square)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20and%20Interaction-5C2D91?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino%20and%20Electronics-00979D?style=flat-square&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT%20and%20Automation-2E7D32?style=flat-square)
+![AI Prototyping](https://img.shields.io/badge/AI--Assisted%20Prototyping-20232A?style=flat-square)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Direction-5C2D91?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT%20Exploration-2E7D32?style=flat-square)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender%203D-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 ## Featured Projects
 
-> The repositories are being organized and will be published gradually with documentation, images, technical decisions, and lessons learned.
+> These projects were conceived and directed by me, with prototyping and code generation supported by AI tools. The repositories are being organized gradually with documentation, images, and lessons learned.
 
-### Data Management System — Ficha dos Crias
+### Ancient Language — Arcane Database
 
-A digital application designed to structure and manage character sheets, attributes, inventories, and skill trees.
+An interactive digital catalog for organizing runic symbols and lore entries.
 
-- Automatic saving to preserve user progress.
-- Automated PDF report generation and export.
-- Complex data organization and responsive interface.
-- Focus on usability, persistence, and automation.
+- Defined the concept, visual identity, and content organization.
+- Planned search, filters, tabs, and record creation features.
+- Conducted usability tests and AI-assisted correction cycles.
+- The current prototype includes local persistence and a responsive interface.
 
-### Interactive Interface — Spell Forge
+### Ficha dos Crias
 
-A front-end experience based on combining runes to produce logical outcomes.
+A digital system concept for structuring character sheets, attributes, inventories, and skill trees.
 
-- Native drag-and-drop mechanics.
-- Visual feedback and transitions based on motion design principles.
-- A rule system that evaluates element combinations.
-- Focus on UI/UX and interaction design.
+- Planned automatic saving and progress preservation.
+- Defined PDF report generation and export requirements.
+- Organized requirements for complex data and a responsive interface.
 
-### Build and Data Optimizer
+### Spell Forge
 
-An automation project inspired by complex character-building systems.
+An interactive experience based on combining runes to produce logical outcomes.
 
-- Requirements analysis for talents, attributes, and combinations.
-- Data structuring for filtering and search.
-- Logic for evaluating synergies and optimizing builds.
-- Planning for future database integration.
+- Directed the drag-and-drop experience.
+- Planned visual feedback and transitions.
+- Structured the rules for combining elements.
 
-### Electronics and Microcontrollers
+### Electronics, IoT, and 3D Creation
 
-Hands-on experiments involving circuits, boards, batteries, and sensors.
-
-- Integration of electronic components and microcontrollers.
-- Programming and reading motion sensors with Arduino.
-- Testing the activation and control of physical components.
-- Documentation of connections, prototypes, and lessons learned.
-
-### Smart Home Automation with IoT
-
-Configuration of connected devices and smart routines controlled by virtual assistants.
-
-- Integration of devices with Amazon Alexa.
-- Creation of routines triggered by schedules, presence, and voice commands.
-- Exploration of home networks and task automation.
-
-### 3D Environments and Game Design
-
-Applied studies in environment creation, assets, and visual experiences.
-
-- 3D scene modeling and composition in Blender.
-- Exploration of environments and visual logic in Unreal Engine 5.
-- Documentation of game design and visual production concepts.
-
-### Conceptual Plasma Engineering Research
-
-A theoretical study of a plasma emission system, focused on scientific research and technical documentation.
-
-- Conceptual investigation involving xenon gas.
-- Study of physical and electrical principles and theoretical sizing.
-- Organization of hypotheses, limitations, and technical references.
+I also explore circuits, sensors, Arduino, Alexa-based home automation, Unreal Engine 5 environments, and Blender modeling. My focus in these areas is experimentation, research, documentation, and AI-assisted learning.
 
 ## Academic Experience and Achievements
 
 - **FIciências 2024:** participated in a science project exhibition, gaining experience in research and public presentation.
-- **Entrepreneurship Fair:** contributed to strategic planning, script development, and the execution plan for a school event.
-- **Wingfinder Portfolio:** completed a structured analysis of strengths, skills, and professional development goals.
+- **Entrepreneurship Fair:** collaborated on planning, script development, and the execution plan for a school event.
+- **Wingfinder Portfolio:** completed a structured analysis of strengths, skills, and professional goals.
 - **Historical and Economic Research:** developed and presented a study on industrialization models in May 2023.
-- **Media Production:** studied video editing, metrics, algorithms, and audience engagement strategies for digital platforms.
+- **Media Production:** studied editing, metrics, algorithms, and digital engagement strategies.
 
 ## Skills
 
-- Data structuring and requirements analysis.
-- Interface development and UI/UX principles.
-- Automation, logic, and problem-solving.
-- Practical electronics, sensors, Arduino, and IoT devices.
-- 3D modeling, Unreal Engine 5, and Blender.
-- Research, technical documentation, and presentation of results.
-- Project planning, organization, and self-directed learning.
+- Vibe coding and AI-assisted prototyping.
+- Structuring ideas, requirements, and features.
+- Prototype testing, review, and iterative improvement.
+- UI/UX direction and content organization.
+- Research, documentation, and presentation of results.
+- Project planning and problem-solving.
+- Self-directed learning and exploration of new tools.
 
 ## Next Steps
 
-- Publish technical documentation for the main projects.
-- Add images, diagrams, demo videos, and design decisions.
-- Improve prototypes through testing, versioning, and learning records.
-- Collaborate on projects that connect software, hardware, and interactive experiences.
+- Document and gradually publish the main projects.
+- Add images, diagrams, demonstrations, and project decisions.
+- Learn the technical foundations behind AI-generated prototypes.
+- Collaborate with more experienced people on real projects.
 
 ---
 
