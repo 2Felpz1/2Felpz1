@@ -4,7 +4,7 @@
 
 # Felipe Sutil de Oliveira Aliski
 
-### Estudante e criador de projetos em software, eletrônica, IoT e ambientes 3D
+### Estudante, vibe coder e criador de protótipos com inteligência artificial
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Sutil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sutil-de-oliveira-aliski-474635428/)
 
@@ -12,109 +12,83 @@
 
 ## Sobre mim
 
-Sou estudante em Curitiba, Paraná, e desenvolvo projetos que conectam **tecnologia, criatividade e resolução de problemas**. Tenho interesse especial em desenvolvimento de software, interfaces interativas, eletrônica, Internet das Coisas (IoT), modelagem 3D e pesquisa aplicada.
+Sou estudante em Curitiba, Paraná, e uso ferramentas de inteligência artificial para transformar ideias em protótipos e projetos digitais. Minha atuação se aproxima do conceito de **vibe coding**: defino objetivos, funcionalidades e experiências de uso; estruturo requisitos; oriento a IA; testo resultados; identifico problemas; solicito correções e acompanho a evolução do projeto.
 
-Meu trabalho combina experimentação prática e documentação: desde sistemas de gestão de dados e experiências de UI/UX até circuitos com microcontroladores, automação residencial e estudos conceituais de engenharia.
+Não me apresento como programador tradicional ou especialista em linguagens de código. Minha principal habilidade está em conectar criatividade, planejamento, pesquisa e ferramentas de IA para tirar ideias do papel.
 
-Atualmente estou organizando e documentando meus projetos para transformá-los em um portfólio técnico aberto. Busco oportunidades para aprender com profissionais experientes, colaborar em equipe e aplicar meus conhecimentos em desafios reais.
+## Como trabalho
+
+- Transformo uma ideia inicial em objetivos e funcionalidades claras.
+- Estruturo requisitos e descrevo comportamentos esperados para ferramentas de IA.
+- Testo protótipos, identifico falhas e conduzo ciclos de melhoria.
+- Oriento decisões de interface, experiência do usuário e organização de conteúdo.
+- Documento o projeto, seus limites, aprendizados e próximos passos.
 
 ## Áreas de interesse
 
-![Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-20232A?style=flat-square)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20e%20Interação-5C2D91?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino%20e%20Eletrônica-00979D?style=flat-square&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT%20e%20Automação-2E7D32?style=flat-square)
+![AI Prototyping](https://img.shields.io/badge/Prototipagem%20com%20IA-20232A?style=flat-square)
+![UI/UX](https://img.shields.io/badge/Direção%20de%20UI%2FUX-5C2D91?style=flat-square)
+![IoT](https://img.shields.io/badge/Exploração%20de%20IoT-2E7D32?style=flat-square)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender%203D-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 ## Projetos em destaque
 
-> Os repositórios estão em processo de organização e serão publicados gradualmente com documentação, imagens, decisões técnicas e aprendizados.
+> Os projetos foram idealizados e direcionados por mim, com prototipagem e geração de código apoiadas por ferramentas de IA. Os repositórios estão sendo organizados gradualmente com documentação, imagens e aprendizados.
 
-### Sistema de Gestão de Dados — Ficha dos Crias
+### Língua dos Antigos — Banco de Dados Arcano
 
-Aplicação digital para estruturar e gerenciar fichas de personagens, atributos, inventários e árvores de habilidades.
+Catálogo digital interativo para organizar símbolos rúnicos e registros de *lore*.
 
-- Salvamento automático para preservar o progresso do usuário.
-- Geração e exportação automatizada de relatórios em PDF.
-- Organização de dados complexos e interface responsiva.
-- Foco em usabilidade, persistência e automação.
+- Definição do conceito, identidade visual e organização do conteúdo.
+- Planejamento de pesquisa, filtros, abas e criação de registros.
+- Testes de usabilidade e ciclos de correção com apoio de IA.
+- Persistência local e interface responsiva no protótipo atual.
 
-### Interface Interativa — Forja de Magias
+### Ficha dos Crias
 
-Experiência de front-end baseada na combinação de runas para produzir resultados lógicos.
+Conceito de sistema digital para estruturar fichas de personagens, atributos, inventários e árvores de habilidades.
 
-- Mecânica de arrastar e soltar (*drag-and-drop*).
-- Feedback visual e transições com princípios de *motion design*.
-- Regras lógicas para avaliar combinações de elementos.
-- Foco em UI/UX e design de interação.
+- Planejamento de salvamento automático e preservação do progresso.
+- Definição da geração e exportação de relatórios em PDF.
+- Organização de requisitos para dados complexos e interface responsiva.
 
-### Otimizador de Builds e Dados
+### Forja de Magias
 
-Projeto de automação inspirado em sistemas complexos de criação de personagens.
+Experiência interativa baseada na combinação de runas para produzir resultados lógicos.
 
-- Levantamento de requisitos para talentos, atributos e combinações.
-- Estruturação de dados para filtragem e busca.
-- Lógica de avaliação de sinergias e otimização de builds.
-- Planejamento de integração com banco de dados.
+- Direção da experiência de arrastar e soltar.
+- Planejamento de feedback visual e transições.
+- Estruturação das regras de combinação dos elementos.
 
-### Eletrônica e Microcontroladores
+### Eletrônica, IoT e criação 3D
 
-Experimentos práticos envolvendo circuitos, placas, baterias e sensores.
-
-- Integração de componentes eletrônicos e microcontroladores.
-- Programação e leitura de sensores de movimento com Arduino.
-- Testes de acionamento e controle de componentes físicos.
-- Documentação de conexões, protótipos e aprendizados.
-
-### Automação Residencial com IoT
-
-Configuração de dispositivos conectados e rotinas inteligentes controladas por assistentes virtuais.
-
-- Integração de dispositivos com Amazon Alexa.
-- Criação de rotinas baseadas em horários, presença e comandos de voz.
-- Exploração de redes domésticas e automação de tarefas.
-
-### Ambientes 3D e Game Design
-
-Estudos aplicados de criação de ambientes, assets e experiências visuais.
-
-- Modelagem e composição de cenas no Blender 3D.
-- Exploração de ambientes e lógica visual na Unreal Engine 5.
-- Documentação de conceitos de *game design* e produção visual.
-
-### Pesquisa Conceitual em Engenharia de Plasma
-
-Estudo teórico sobre um sistema de emissão por plasma, com foco em pesquisa e documentação científica.
-
-- Investigação conceitual envolvendo gás xenônio.
-- Estudo de princípios físicos, elétricos e dimensionamento teórico.
-- Organização das hipóteses, limitações e referências técnicas.
+Também exploro circuitos, sensores, Arduino, automação residencial com Alexa, ambientes na Unreal Engine 5 e modelagem no Blender. Nessas áreas, meu foco é experimentar, pesquisar, documentar e usar IA como apoio ao aprendizado.
 
 ## Experiências acadêmicas e conquistas
 
 - **FIciências 2024:** participação em exposição de projetos científicos, com experiência em pesquisa e apresentação pública.
-- **Feira de Empreendedorismo:** planejamento estratégico, elaboração de roteiros e organização do plano de execução de um evento escolar.
-- **Portfólio Wingfinder:** análise estruturada de pontos fortes, competências e objetivos de desenvolvimento profissional.
-- **Pesquisa histórico-econômica:** desenvolvimento e apresentação de um estudo sobre modelos de industrialização, realizado em maio de 2023.
-- **Produção de mídia:** estudos de edição de vídeo, métricas, algoritmos e estratégias de engajamento em plataformas digitais.
+- **Feira de Empreendedorismo:** colaboração no planejamento, elaboração de roteiros e organização do plano de execução de um evento escolar.
+- **Portfólio Wingfinder:** análise estruturada de pontos fortes, competências e objetivos profissionais.
+- **Pesquisa histórico-econômica:** desenvolvimento e apresentação de um estudo sobre modelos de industrialização em maio de 2023.
+- **Produção de mídia:** estudos de edição, métricas, algoritmos e estratégias de engajamento em plataformas digitais.
 
 ## Competências
 
-- Estruturação de dados e levantamento de requisitos.
-- Desenvolvimento de interfaces e princípios de UI/UX.
-- Automação, lógica e resolução de problemas.
-- Eletrônica prática, sensores, Arduino e dispositivos IoT.
-- Modelagem 3D, Unreal Engine 5 e Blender.
-- Pesquisa, documentação técnica e apresentação de resultados.
-- Planejamento de projetos, organização e aprendizagem autônoma.
+- Vibe coding e prototipagem assistida por IA.
+- Estruturação de ideias, requisitos e funcionalidades.
+- Testes, revisão e melhoria iterativa de protótipos.
+- Direção de UI/UX e organização de conteúdo.
+- Pesquisa, documentação e apresentação de resultados.
+- Planejamento de projetos e resolução de problemas.
+- Aprendizagem autônoma e exploração de novas ferramentas.
 
 ## Próximos passos
 
-- Publicar a documentação técnica dos principais projetos.
-- Adicionar imagens, diagramas, vídeos demonstrativos e decisões de projeto.
-- Evoluir os protótipos com testes, versionamento e registros de aprendizado.
-- Colaborar em projetos que unam software, hardware e experiências interativas.
+- Documentar e publicar gradualmente os principais projetos.
+- Adicionar imagens, diagramas, demonstrações e decisões de projeto.
+- Aprender os fundamentos técnicos por trás dos protótipos gerados com IA.
+- Colaborar com pessoas mais experientes em projetos reais.
 
 ---
 
