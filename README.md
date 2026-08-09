@@ -36,15 +36,6 @@ I do not present myself as a traditional programmer or a specialist in coding la
 
 > These projects were conceived and directed by me, with prototyping and code generation supported by AI tools. The repositories are being organized gradually with documentation, images, and lessons learned.
 
-### Ancient Language — Arcane Database
-
-An interactive digital catalog for organizing runic symbols and lore entries.
-
-- Defined the concept, visual identity, and content organization.
-- Planned search, filters, tabs, and record creation features.
-- Conducted usability tests and AI-assisted correction cycles.
-- The current prototype includes local persistence and a responsive interface.
-
 ### Ficha dos Crias
 
 A digital system concept for structuring character sheets, attributes, inventories, and skill trees.
