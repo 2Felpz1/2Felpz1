@@ -1,123 +1,125 @@
 <div align="center">
 
+[Português](README.pt-BR.md) · **English**
+
 # Felipe Sutil de Oliveira Aliski
 
-### Estudante e criador de projetos em software, eletrônica, IoT e ambientes 3D
+### Student and project creator working across software, electronics, IoT, and 3D environments
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Sutil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sutil-de-oliveira-aliski-474635428/)
 
 </div>
 
-## Sobre mim
+## About Me
 
-Sou estudante em Curitiba, Paraná, e desenvolvo projetos que conectam **tecnologia, criatividade e resolução de problemas**. Tenho interesse especial em desenvolvimento de software, interfaces interativas, eletrônica, Internet das Coisas (IoT), modelagem 3D e pesquisa aplicada.
+I am a student based in Curitiba, Brazil, developing projects that connect **technology, creativity, and problem-solving**. My main interests include software development, interactive interfaces, electronics, the Internet of Things (IoT), 3D modeling, and applied research.
 
-Meu trabalho combina experimentação prática e documentação: desde sistemas de gestão de dados e experiências de UI/UX até circuitos com microcontroladores, automação residencial e estudos conceituais de engenharia.
+My work combines hands-on experimentation with clear documentation, ranging from data management systems and UI/UX experiences to microcontroller circuits, smart home automation, and conceptual engineering studies.
 
-Atualmente estou organizando e documentando meus projetos para transformá-los em um portfólio técnico aberto. Busco oportunidades para aprender com profissionais experientes, colaborar em equipe e aplicar meus conhecimentos em desafios reais.
+I am currently organizing and documenting my projects to build an open technical portfolio. I am looking for opportunities to learn from experienced professionals, collaborate with teams, and apply my knowledge to real-world challenges.
 
-## Áreas de interesse
+## Areas of Interest
 
-![Software](https://img.shields.io/badge/Desenvolvimento%20de%20Software-20232A?style=flat-square)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20e%20Interação-5C2D91?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino%20e%20Eletrônica-00979D?style=flat-square&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT%20e%20Automação-2E7D32?style=flat-square)
+![Software](https://img.shields.io/badge/Software%20Development-20232A?style=flat-square)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20and%20Interaction-5C2D91?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino%20and%20Electronics-00979D?style=flat-square&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT%20and%20Automation-2E7D32?style=flat-square)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender%203D-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
-## Projetos em destaque
+## Featured Projects
 
-> Os repositórios estão em processo de organização e serão publicados gradualmente com documentação, imagens, decisões técnicas e aprendizados.
+> The repositories are being organized and will be published gradually with documentation, images, technical decisions, and lessons learned.
 
-### Sistema de Gestão de Dados — Ficha dos Crias
+### Data Management System — Ficha dos Crias
 
-Aplicação digital para estruturar e gerenciar fichas de personagens, atributos, inventários e árvores de habilidades.
+A digital application designed to structure and manage character sheets, attributes, inventories, and skill trees.
 
-- Salvamento automático para preservar o progresso do usuário.
-- Geração e exportação automatizada de relatórios em PDF.
-- Organização de dados complexos e interface responsiva.
-- Foco em usabilidade, persistência e automação.
+- Automatic saving to preserve user progress.
+- Automated PDF report generation and export.
+- Complex data organization and responsive interface.
+- Focus on usability, persistence, and automation.
 
-### Interface Interativa — Forja de Magias
+### Interactive Interface — Spell Forge
 
-Experiência de front-end baseada na combinação de runas para produzir resultados lógicos.
+A front-end experience based on combining runes to produce logical outcomes.
 
-- Mecânica de arrastar e soltar (*drag-and-drop*).
-- Feedback visual e transições com princípios de *motion design*.
-- Regras lógicas para avaliar combinações de elementos.
-- Foco em UI/UX e design de interação.
+- Native drag-and-drop mechanics.
+- Visual feedback and transitions based on motion design principles.
+- A rule system that evaluates element combinations.
+- Focus on UI/UX and interaction design.
 
-### Otimizador de Builds e Dados
+### Build and Data Optimizer
 
-Projeto de automação inspirado em sistemas complexos de criação de personagens.
+An automation project inspired by complex character-building systems.
 
-- Levantamento de requisitos para talentos, atributos e combinações.
-- Estruturação de dados para filtragem e busca.
-- Lógica de avaliação de sinergias e otimização de builds.
-- Planejamento de integração com banco de dados.
+- Requirements analysis for talents, attributes, and combinations.
+- Data structuring for filtering and search.
+- Logic for evaluating synergies and optimizing builds.
+- Planning for future database integration.
 
-### Eletrônica e Microcontroladores
+### Electronics and Microcontrollers
 
-Experimentos práticos envolvendo circuitos, placas, baterias e sensores.
+Hands-on experiments involving circuits, boards, batteries, and sensors.
 
-- Integração de componentes eletrônicos e microcontroladores.
-- Programação e leitura de sensores de movimento com Arduino.
-- Testes de acionamento e controle de componentes físicos.
-- Documentação de conexões, protótipos e aprendizados.
+- Integration of electronic components and microcontrollers.
+- Programming and reading motion sensors with Arduino.
+- Testing the activation and control of physical components.
+- Documentation of connections, prototypes, and lessons learned.
 
-### Automação Residencial com IoT
+### Smart Home Automation with IoT
 
-Configuração de dispositivos conectados e rotinas inteligentes controladas por assistentes virtuais.
+Configuration of connected devices and smart routines controlled by virtual assistants.
 
-- Integração de dispositivos com Amazon Alexa.
-- Criação de rotinas baseadas em horários, presença e comandos de voz.
-- Exploração de redes domésticas e automação de tarefas.
+- Integration of devices with Amazon Alexa.
+- Creation of routines triggered by schedules, presence, and voice commands.
+- Exploration of home networks and task automation.
 
-### Ambientes 3D e Game Design
+### 3D Environments and Game Design
 
-Estudos aplicados de criação de ambientes, assets e experiências visuais.
+Applied studies in environment creation, assets, and visual experiences.
 
-- Modelagem e composição de cenas no Blender 3D.
-- Exploração de ambientes e lógica visual na Unreal Engine 5.
-- Documentação de conceitos de *game design* e produção visual.
+- 3D scene modeling and composition in Blender.
+- Exploration of environments and visual logic in Unreal Engine 5.
+- Documentation of game design and visual production concepts.
 
-### Pesquisa Conceitual em Engenharia de Plasma
+### Conceptual Plasma Engineering Research
 
-Estudo teórico sobre um sistema de emissão por plasma, com foco em pesquisa e documentação científica.
+A theoretical study of a plasma emission system, focused on scientific research and technical documentation.
 
-- Investigação conceitual envolvendo gás xenônio.
-- Estudo de princípios físicos, elétricos e dimensionamento teórico.
-- Organização das hipóteses, limitações e referências técnicas.
+- Conceptual investigation involving xenon gas.
+- Study of physical and electrical principles and theoretical sizing.
+- Organization of hypotheses, limitations, and technical references.
 
-## Experiências acadêmicas e conquistas
+## Academic Experience and Achievements
 
-- **FIciências 2024:** participação em exposição de projetos científicos, com experiência em pesquisa e apresentação pública.
-- **Feira de Empreendedorismo:** planejamento estratégico, elaboração de roteiros e organização do plano de execução de um evento escolar.
-- **Portfólio Wingfinder:** análise estruturada de pontos fortes, competências e objetivos de desenvolvimento profissional.
-- **Pesquisa histórico-econômica:** desenvolvimento e apresentação de um estudo sobre modelos de industrialização, realizado em maio de 2023.
-- **Produção de mídia:** estudos de edição de vídeo, métricas, algoritmos e estratégias de engajamento em plataformas digitais.
+- **FIciências 2024:** participated in a science project exhibition, gaining experience in research and public presentation.
+- **Entrepreneurship Fair:** contributed to strategic planning, script development, and the execution plan for a school event.
+- **Wingfinder Portfolio:** completed a structured analysis of strengths, skills, and professional development goals.
+- **Historical and Economic Research:** developed and presented a study on industrialization models in May 2023.
+- **Media Production:** studied video editing, metrics, algorithms, and audience engagement strategies for digital platforms.
 
-## Competências
+## Skills
 
-- Estruturação de dados e levantamento de requisitos.
-- Desenvolvimento de interfaces e princípios de UI/UX.
-- Automação, lógica e resolução de problemas.
-- Eletrônica prática, sensores, Arduino e dispositivos IoT.
-- Modelagem 3D, Unreal Engine 5 e Blender.
-- Pesquisa, documentação técnica e apresentação de resultados.
-- Planejamento de projetos, organização e aprendizagem autônoma.
+- Data structuring and requirements analysis.
+- Interface development and UI/UX principles.
+- Automation, logic, and problem-solving.
+- Practical electronics, sensors, Arduino, and IoT devices.
+- 3D modeling, Unreal Engine 5, and Blender.
+- Research, technical documentation, and presentation of results.
+- Project planning, organization, and self-directed learning.
 
-## Próximos passos
+## Next Steps
 
-- Publicar a documentação técnica dos principais projetos.
-- Adicionar imagens, diagramas, vídeos demonstrativos e decisões de projeto.
-- Evoluir os protótipos com testes, versionamento e registros de aprendizado.
-- Colaborar em projetos que unam software, hardware e experiências interativas.
+- Publish technical documentation for the main projects.
+- Add images, diagrams, demo videos, and design decisions.
+- Improve prototypes through testing, versioning, and learning records.
+- Collaborate on projects that connect software, hardware, and interactive experiences.
 
 ---
 
 <div align="center">
 
-**Aberto a aprendizado, colaboração e primeiras oportunidades profissionais.**
+**Open to learning, collaboration, and entry-level professional opportunities.**
 
 </div>
