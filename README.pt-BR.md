@@ -36,6 +36,24 @@ Não me apresento como programador tradicional ou especialista em linguagens de 
 
 > Os projetos foram idealizados e direcionados por mim, com prototipagem e geração de código apoiadas por ferramentas de IA. Os repositórios estão sendo organizados gradualmente com documentação, imagens e aprendizados.
 
+### Pesquisa conceitual em propulsão por plasma de xenônio
+
+Whitepaper educacional e não operacional sobre ionização de xenônio, estabilidade de corrente e modelos simplificados de propulsão.
+
+- Estruturação de objetivos, hipóteses, equações básicas e plano de modelagem.
+- Arquitetura conceitual em blocos, sem instruções de construção.
+- Registro explícito de limitações, segurança e necessidade de validação especializada.
+- [Acessar o repositório](https://github.com/2Felpz1/xenon-plasma-propulsion-research)
+
+### Automação por presença e sensores de movimento
+
+Projeto exploratório de hardware e IoT para documentar a integração entre alimentação, sensores, microcontroladores e atuadores.
+
+- Planejamento de fluxos lógicos, testes e prevenção de falsos acionamentos.
+- Estudo básico de potência, consumo e autonomia.
+- Organização de documentação para hardware, firmware e resultados.
+- [Acessar o repositório](https://github.com/2Felpz1/embedded-motion-sensor-systems)
+
 ### Ficha dos Crias
 
 Conceito de sistema digital para estruturar fichas de personagens, atributos, inventários e árvores de habilidades.
