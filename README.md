@@ -36,6 +36,24 @@ I do not present myself as a traditional programmer or a specialist in coding la
 
 > These projects were conceived and directed by me, with prototyping and code generation supported by AI tools. The repositories are being organized gradually with documentation, images, and lessons learned.
 
+### Conceptual Xenon Plasma Propulsion Research
+
+An educational, non-operational whitepaper about xenon ionization, current stabilization, and simplified plasma propulsion models.
+
+- Structured objectives, hypotheses, basic equations, and a modeling plan.
+- Documented a conceptual block architecture without construction instructions.
+- Recorded limitations, safety boundaries, and the need for specialist validation.
+- [View repository](https://github.com/2Felpz1/xenon-plasma-propulsion-research)
+
+### Motion-Sensor Automation Systems
+
+An exploratory hardware and IoT project documenting the integration of power, sensors, microcontrollers, and actuators.
+
+- Planned logical flows, testing, and false-trigger prevention.
+- Studied basic power, consumption, and battery-runtime concepts.
+- Organized documentation for hardware, firmware, tests, and results.
+- [View repository](https://github.com/2Felpz1/embedded-motion-sensor-systems)
+
 ### Ficha dos Crias
 
 A digital system concept for structuring character sheets, attributes, inventories, and skill trees.
